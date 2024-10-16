@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/DgwnlOgC7jcAAAAM/twerk-cat-dae-cat.gif"/>
   
   <br/>
-- 👋 Hi, I’m dlf
+- 👋 Hi, I’m hdd
   <br/>
 - 👀 I’m interested in do something to change the world.
   <br/>
@@ -10,7 +10,7 @@
   <br/>
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=150&lines=Hello+World!!" />    
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=140&lines=Hello+World!!" />    
   </h1>
 
   ![stats](https://github-readme-stats.vercel.app/api?username=hddlf&theme=dark&show_icons=true)
