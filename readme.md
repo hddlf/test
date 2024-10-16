@@ -6,7 +6,8 @@
   <br/>
 - 👀 I’m interested in do something to change the world.
   <br/>
-- 👻 I want to do something cool.
+- 👻 I want to do something cool.  
+  <br/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Hello+World!!" />
 
