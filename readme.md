@@ -9,7 +9,9 @@
 - 👻 I want to do something cool.  
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Hello+World!!" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Hello+World!!" />    
+  </h1>
 
   ![stats](https://github-readme-stats.vercel.app/api?username=hddlf&theme=dark&show_icons=true)
   
